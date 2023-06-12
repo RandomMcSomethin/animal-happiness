@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.animalhappiness.title": "Animal Happiness",
+  "text.autoconfig.animalhappiness.option.animalEntries": "Animal Entries",
+  "text.autoconfig.animalhappiness.option.AnimalEntry": "Entry",
+  "text.autoconfig.animalhappiness.option.AnimalEntry.ID": "Entity ID",
+  "text.autoconfig.animalhappiness.option.AnimalEntry.parameters": "Parameters",
+  "text.autoconfig.animalhappiness.option.Parameter": "Parameter",
+  "text.autoconfig.animalhappiness.option.Parameter.data": "Data"
+}
